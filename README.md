@@ -1,6 +1,6 @@
 # Nano ID for D
 
-> **Note:** This library is a 100% machine port created via **Gemini 4 Neon**.
+> **Note:** This library was machine-ported with **Gemini 4 Neon**.
 
 A tiny, secure, URL-friendly, unique string ID generator for the [D programming language](https://dlang.org/).
 
@@ -61,13 +61,13 @@ Add `nanoid` to your Dub project:
 
 **`dub.sdl`**
 ```sdl
-dependency "nanoid" version="~>1.0.0"
+dependency "nanoid" version="~>0.9.0"
 ```
 
 **`dub.json`**
 ```json
 "dependencies": {
-    "nanoid": "~>1.0.0"
+    "nanoid": "~>0.9.0"
 }
 ```
 
