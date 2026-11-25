@@ -1,0 +1,7 @@
+name "nanoid"
+description "A tiny, secure, URL-friendly, unique string ID generator for D."
+license "MIT"
+targetType "library"
+targetPath "lib"
+
+libs "bcrypt" platform="windows"

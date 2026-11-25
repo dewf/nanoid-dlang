@@ -1,0 +1,15 @@
+.dub/
+docs/
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.exe
+*.pdb
+*.ilk
+*.lst
+nanoid-test-*
+dub.selections.json
